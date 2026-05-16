@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2">
+  <file source-language="tr" target-language="en" datatype="plaintext" original="example-001">
+    <body>
+      <trans-unit id="title">
+        <source><![CDATA[Açık Bilim Nedir?]]></source>
+        <target><![CDATA[]]></target>
+      </trans-unit>
+      <trans-unit id="intro">
+        <source><![CDATA[Açık bilim, araştırma verisini ve sonuçlarını herkesin erişimine açan bir yaklaşımdır. Bu yaklaşım, <strong>tekrarlanabilirlik</strong> ve <em>şeffaflık</em> ilkelerini öne çıkarır.]]></source>
+        <target><![CDATA[]]></target>
+      </trans-unit>
+      <trans-unit id="meta">
+        <source><![CDATA[Açık bilimi destekleyen kuruluşlar, araştırmaları daha geniş bir kitleye ulaştırır.]]></source>
+        <target><![CDATA[]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

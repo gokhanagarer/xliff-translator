@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2">
+  <file source-language="tr" target-language="en" datatype="plaintext" original="example-002">
+    <body>
+      <trans-unit id="title">
+        <source><![CDATA[Yerel Üretim Nedir?]]></source>
+        <target><![CDATA[]]></target>
+      </trans-unit>
+      <trans-unit id="paragraph-1">
+        <source><![CDATA[Yerel üretim, bir ürünün ya da hizmetin tüketildiği bölgede üretilmesidir. <a href="https://example.com/local">Daha fazla bilgi</a> için yerel kalkınma bültenine bakabilirsiniz.]]></source>
+        <target><![CDATA[]]></target>
+      </trans-unit>
+      <trans-unit id="paragraph-2">
+        <source><![CDATA[Bu yaklaşımın avantajları arasında daha kısa tedarik zincirleri, düşük taşıma maliyeti ve topluluk dayanışması yer alır.]]></source>
+        <target><![CDATA[]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
