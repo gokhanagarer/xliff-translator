@@ -27,6 +27,8 @@ cd xliff-translator
 make demo
 ```
 
+📘 **Want a full step-by-step walkthrough?** Read [GETTING_STARTED.md](GETTING_STARTED.md) — covers swapping in Google or Claude backends, building a custom glossary, resume mode, and troubleshooting.
+
 You'll get translated XLIFF files in `output/translated/` and a ZIP at `output/translated.zip` — produced by the offline stub backend, so no API keys are needed.
 
 ## Going live
